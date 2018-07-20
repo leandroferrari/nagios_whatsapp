@@ -5,7 +5,7 @@ nagios talking with whatsapp
 
 ### Overview
 
-One of the most powered feature in nagios is the system alert that's use email to send alerts, but if you can't reach a SMTP server this can be a problem, here we'll combine nagios and WhatsApp message service to send alerts to your cellphone.
+One of the most powerfull feature in nagios is the system alert that's use email to send alerts, but if you can't reach a SMTP server this can be a problem, here we'll combine nagios and WhatsApp message service to send alerts to your cellphone.
 
 ### Requirements:
 
