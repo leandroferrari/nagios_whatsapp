@@ -1,5 +1,5 @@
 # nagios_whatsapp
-nagios talking with whatsapp
+nagios talking to whatsapp
 
 ## How to configure Nagios to send WhatsApp alerts on any linux distro.
 
